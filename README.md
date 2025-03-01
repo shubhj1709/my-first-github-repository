@@ -1,4 +1,5 @@
 # my-first-github-repository
-Hers is my first GitHub repository 
+Here is my first GitHub repository. Let's get started with GitHub. 
 
-README.md file was just edited  manually.one more edit at Github
+README.md file was just edited manually. This file was modified locally.
+
